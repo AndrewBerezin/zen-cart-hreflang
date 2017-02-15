@@ -4,11 +4,17 @@ Author
 Andrew Berezin http://eCommerce-Service.com
 
 Генерирует теги link rel="alternate" hreflang="X" в соответсвии с рекомендациями
-(https://support.google.com/webmasters/answer/189077)
-(https://support.google.com/webmasters/answer/182192?topic=2370587&ctx=topic)
-(http://googlerussiablog.blogspot.ru/2013/04/hreflang-update.html)
-(http://help.yandex.ru/webmaster/yandex-indexing/locale-pages.xml)
-(http://webmaster.ya.ru/replies.xml?item_no=15326)
+
+[Как использовать атрибут hreflang для указания языка или регионального URL](https://support.google.com/webmasters/answer/189077)
+
+[Мультирегиональные и многоязычные сайты](https://support.google.com/webmasters/answer/182192?topic=2370587&ctx=topic)
+
+[Новый способ правильно показывать контент пользователям из разных стран](http://googlerussiablog.blogspot.ru/2013/04/hreflang-update.html)
+
+[Разметка локализованных страниц](http://help.yandex.ru/webmaster/yandex-indexing/locale-pages.xml)
+
+[Яндекс поддерживает стандарт для указания мультиязычности сайта](http://webmaster.ya.ru/replies.xml?item_no=15326)
+
 
 В версии 1.5.5 hreflang поддерживается по умолчанию. Но сделано это криво :( Поэтому я использую свой скрипт.
 
